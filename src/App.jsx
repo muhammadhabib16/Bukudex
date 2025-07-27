@@ -1,5 +1,5 @@
 import "./App.css";
-import Header from "./components/header";
+import Header from "./components/Header";
 import Hero from "./components/HeroSection";
 import BookList from "./components/BookList";
 import AddBook from "./components/AddBookForm";
