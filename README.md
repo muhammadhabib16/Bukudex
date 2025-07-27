@@ -5,7 +5,7 @@ Bukudex adalah sebuah sistem library sederhana yang mana user bisa menginputkan
 - author
 - cover buku
 
--TECHSTACK
+-TECHSTACK-
 React js
 Tailwind
--
+
